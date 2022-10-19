@@ -1,0 +1,9 @@
+
+length of longest substring in python
+distance.lcsubstring()
+
+TSNE method for dimensionality reduction
+
+re.sub(regex method)
+
+regex method to remove the punctuation from the text
